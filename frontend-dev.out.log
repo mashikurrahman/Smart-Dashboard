@@ -1,0 +1,46 @@
+
+> smartdash-cs@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.18
+   - Local:        http://localhost:3000
+   - Network:      http://172.16.9.151:3000
+   - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 2.3s
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 5s (1403 modules)
+ GET /dashboard 200 in 6088ms
+ ✓ Compiled in 1325ms (638 modules)
+ GET /dashboard 200 in 170ms
+ ○ Compiling /dashboards/[id] ...
+ ✓ Compiled /dashboards/[id] in 4s (2516 modules)
+ GET /dashboards/dashboard_51d76c9be2ba?fresh=1778995637050 200 in 6719ms
+ GET /dashboards/dashboard_51d76c9be2ba?fresh=1778995730543 200 in 384ms
+ GET /dashboards/dashboard_51d76c9be2ba?fresh=1778995770831 200 in 338ms
+ ○ Compiling / ...
+ ✓ Compiled / in 1738ms (2518 modules)
+ GET /?fresh=1778995806934 200 in 2583ms
+ ○ Compiling /datasets/[id] ...
+ ✓ Compiled /datasets/[id] in 2.7s (2529 modules)
+ GET /datasets/dataset_29292481e734 200 in 4421ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 917ms (1341 modules)
+ GET /dashboard 200 in 1363ms
+ GET /dashboard 200 in 178ms
+ ○ Compiling /upload ...
+ ✓ Compiled /upload in 7s (2570 modules)
+ GET /upload 200 in 8090ms
+ GET /upload 200 in 664ms
+ ✓ Compiled in 1102ms (1214 modules)
+ GET /?fresh=1778995806934 200 in 690ms
+ GET /upload 200 in 338ms
+ GET /?fresh=1778995806934 200 in 79ms
+ GET /dashboard 200 in 2572ms
+ GET /dashboard 200 in 1633ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 10s (2560 modules)
+ GET /dashboard 200 in 233ms
+ GET /dashboard 200 in 2986ms
+ GET /dashboard 200 in 2445ms
